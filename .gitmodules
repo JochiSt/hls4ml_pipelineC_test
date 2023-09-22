@@ -1,0 +1,3 @@
+[submodule "AI_TF_helpers"]
+	path = AI_TF_helpers
+	url = https://github.com/JochiSt/AI_TF_helpers.git
