@@ -2,3 +2,4 @@ sinetest*/
 storedANN/
 *.png
 *.tar.gz
+*__pycache__*
